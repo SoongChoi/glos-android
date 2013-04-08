@@ -1,4 +1,4 @@
-glos-androi
+glos-android
 ==
 # 주요기능
 * 로그인 (facebook, twitter)
